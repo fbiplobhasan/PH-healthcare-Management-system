@@ -1,4 +1,3 @@
-import { Doctor } from "./../../generated/prisma/browser";
 import { Router } from "express";
 import { SpecialtyRoutes } from "../modules/specialty/specialty.route";
 import { AuthRoutes } from "../modules/auth/auth.route";
